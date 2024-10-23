@@ -1,0 +1,8 @@
+/home/vadimkirpikov/HelloWorld/build/CMakeFiles/HelloWorld.dir
+/home/vadimkirpikov/HelloWorld/build/CMakeFiles/edit_cache.dir
+/home/vadimkirpikov/HelloWorld/build/CMakeFiles/rebuild_cache.dir
+/home/vadimkirpikov/HelloWorld/build/CMakeFiles/list_install_components.dir
+/home/vadimkirpikov/HelloWorld/build/CMakeFiles/install.dir
+/home/vadimkirpikov/HelloWorld/build/CMakeFiles/install/local.dir
+/home/vadimkirpikov/HelloWorld/build/CMakeFiles/install/strip.dir
+/home/vadimkirpikov/HelloWorld/build/CMakeFiles/HelloWorld_autogen.dir

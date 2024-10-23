@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/vadimkirpikov/HelloWorld/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/vadimkirpikov/HelloWorld/build/HelloWorld_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -fPIC -std=gnu++17 -o CMakeFiles/HelloWorld.dir/HelloWorld_autogen/mocs_compilation.cpp.o -c /home/vadimkirpikov/HelloWorld/build/HelloWorld_autogen/mocs_compilation.cpp",
+  "file": "/home/vadimkirpikov/HelloWorld/build/HelloWorld_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/vadimkirpikov/HelloWorld/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/vadimkirpikov/HelloWorld/build/HelloWorld_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -fPIC -std=gnu++17 -o CMakeFiles/HelloWorld.dir/main.cpp.o -c /home/vadimkirpikov/HelloWorld/main.cpp",
+  "file": "/home/vadimkirpikov/HelloWorld/main.cpp"
+},
+{
+  "directory": "/home/vadimkirpikov/HelloWorld/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/vadimkirpikov/HelloWorld/build/HelloWorld_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -fPIC -std=gnu++17 -o CMakeFiles/HelloWorld.dir/mainwindow.cpp.o -c /home/vadimkirpikov/HelloWorld/mainwindow.cpp",
+  "file": "/home/vadimkirpikov/HelloWorld/mainwindow.cpp"
+}
+]
